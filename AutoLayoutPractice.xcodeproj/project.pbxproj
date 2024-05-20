@@ -13,6 +13,8 @@
 		24EEFEF52BFB40390053376B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 24EEFEF42BFB40390053376B /* Base */; };
 		24EEFEF72BFB403A0053376B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24EEFEF62BFB403A0053376B /* Assets.xcassets */; };
 		24EEFEFA2BFB403A0053376B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 24EEFEF92BFB403A0053376B /* Base */; };
+		24EEFF022BFB46210053376B /* MelonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24EEFF012BFB46210053376B /* MelonViewController.swift */; };
+		24EEFF042BFB463B0053376B /* BeMinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24EEFF032BFB463B0053376B /* BeMinViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		24EEFEF62BFB403A0053376B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24EEFEF92BFB403A0053376B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24EEFEFB2BFB403A0053376B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24EEFF012BFB46210053376B /* MelonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelonViewController.swift; sourceTree = "<group>"; };
+		24EEFF032BFB463B0053376B /* BeMinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeMinViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				24EEFEED2BFB40390053376B /* AppDelegate.swift */,
 				24EEFEEF2BFB40390053376B /* SceneDelegate.swift */,
 				24EEFEF12BFB40390053376B /* KakaoViewController.swift */,
+				24EEFF012BFB46210053376B /* MelonViewController.swift */,
+				24EEFF032BFB463B0053376B /* BeMinViewController.swift */,
 				24EEFEF32BFB40390053376B /* Main.storyboard */,
 				24EEFEF62BFB403A0053376B /* Assets.xcassets */,
 				24EEFEF82BFB403A0053376B /* LaunchScreen.storyboard */,
@@ -140,7 +146,9 @@
 			files = (
 				24EEFEF22BFB40390053376B /* KakaoViewController.swift in Sources */,
 				24EEFEEE2BFB40390053376B /* AppDelegate.swift in Sources */,
+				24EEFF022BFB46210053376B /* MelonViewController.swift in Sources */,
 				24EEFEF02BFB40390053376B /* SceneDelegate.swift in Sources */,
+				24EEFF042BFB463B0053376B /* BeMinViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

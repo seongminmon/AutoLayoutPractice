@@ -10,14 +10,10 @@ import UIKit
 class KakaoViewController: UIViewController {
     
     @IBOutlet var backgroundImageView: UIImageView!
-    
     @IBOutlet var topButtonList: [UIButton]!
-    
     @IBOutlet var profileImageView: UIImageView!
-    
     @IBOutlet var nameLabel: UILabel!
     @IBOutlet var descriptionLabel: UILabel!
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
